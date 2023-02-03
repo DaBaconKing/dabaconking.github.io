@@ -1,0 +1,33 @@
+body{
+                font-family:'Rubik', Arial;
+                background:#333;
+                color:#fff;
+            }
+            
+            h1{
+                text-align:center;
+                font-size:3em;
+                margin-bottom:1.45em;
+            }
+            
+            a{
+                text-decoration:none;
+                color:#fff;
+            }
+            
+            ul li{
+                margin-bottom:10px;
+            }
+            
+            ::-webkit-scrollbar{
+                background:#555;
+            }
+            
+            ::-webkit-scrollbar-thumb{
+                background:#666;
+                border-radius:0.5rem;
+            }
+            
+            #FTS{
+                font-size:1.25em;
+            }
